@@ -7,11 +7,12 @@ This repository is having all the codes with json files for making an Inventory 
 3. Purchase can be done
 4. Add item can be done.
 
-We've added 4 features per product 
+We've added 5 features per product 
 1. Product id
 2. Name of product
 3. Price
 4. Quan
+5. Exp-date
 
 My Project can do the following things
 1. Generate Bills
